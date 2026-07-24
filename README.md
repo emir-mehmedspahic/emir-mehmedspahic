@@ -6,3 +6,5 @@ CS student focusing on C++ systems programming, database integration, and low-le
 * **Languages:** C++ (Primary), SQL, C
 * **Concepts:** Memory Management (RAII, Smart Pointers), STL, OOD, Relational Databases
 * **Tools:** Linux, Git, CMake, VS Code, GDB
+
+| [Email] (emirmehmedspahic0@gmail.com)
